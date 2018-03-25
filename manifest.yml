@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-boot
+- name: first-example-for-spring-boot
   memory: 512M
   instances: 2
   buildpack: java_buildpack
